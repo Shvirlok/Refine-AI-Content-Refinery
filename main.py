@@ -1,13 +1,3 @@
-"""
-Content Refinery AI Bot - YouTube-to-MultiPlatform Content Distillation.
-
-A production-grade Telegram bot that transforms YouTube transcripts
-into a complete cross-platform distribution pack.
-
-Workflow:
-    /start  ->  Choose tone of voice  ->  Paste YouTube URL  ->  Receive content pack
-"""
-
 from __future__ import annotations
 
 import asyncio
