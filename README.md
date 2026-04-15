@@ -1,4 +1,4 @@
-https://t.me/ContentMint_bot
+🤖 Try the Live Bot here: https://t.me/ContentMint_bot 
 
 🚀 AI Content Refiner
 
