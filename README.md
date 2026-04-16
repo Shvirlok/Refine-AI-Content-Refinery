@@ -31,10 +31,3 @@ Visual Pipeline: Generates 3 precise prompts for Midjourney/DALL-E to match the 
 90% Efficiency Gain: Reduces content production time from 4 hours to 30 seconds.
 Strategic Growth: Enables 10x content velocity for startups and personal brands.
 Data-Driven: Focuses on retention and viral hooks using proven social media frameworks.
-
----
-
-⚙️ Quick Start
-
-1. Clone the repository:
-   git clone [https://github.com/Shvirlok/Refine.git](https://github.com/Shvirlok/Refine.git)
