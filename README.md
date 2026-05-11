@@ -2,7 +2,8 @@
 
 🚀 AI Content Refiner
 
-Transform long-form YouTube videos into high-performance distribution packs in under 30 seconds.
+Designed and built an end-to-end LLM automation pipeline that extracts YouTube transcripts and generates platform-optimized content for LinkedIn, X, Telegram, and TikTok. Architected with async Python, aiogram 3, and DeepSeek API.
+
 
 The AI Content Refinery is an autonomous Python-based pipeline designed to solve the "content velocity" problem. It distills complex video transcripts into platform-optimized posts for LinkedIn, X (Twitter), Telegram, and TikTok, including automated visual briefs for designers or AI image generators.
 
